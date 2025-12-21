@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "cat reincarnation / nyamura × Haruhi",
+  "base_artist": "nyamura",
+  "createdAt": "2025-12-21T04:45:40.469578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "cat reincarnation",
+      "artist": "nyamura",
+      "has_synced": true,
+      "path": "select/01_cat_reincarnation_nyamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "cat reincarnation",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_cat_reincarnation_nyamura.txt"
+    }
+  ]
+}
